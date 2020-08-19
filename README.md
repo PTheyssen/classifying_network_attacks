@@ -1,4 +1,10 @@
 # Classifier for Network Intrusion Detection
+This semester I attended the lecture Machine Learning for
+security by the [Intelligent System Security Group at KIT](https://intellisec.de/teaching/#). The lecture was a lot of fun and I would definitely
+recommend it. 
+
+I created this project to apply some of the theoretical knowledge learned. 
+
 ## The task
 Building a Predictive Model to callsify Network Attacks.
 The task is to categorize each sample as one of five classes
