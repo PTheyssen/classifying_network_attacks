@@ -1,8 +1,7 @@
 # NSL-KDD-Dataset
 
-***Note
--------
 The data was found via  https://web.archive.org/web/20150205070216/http://nsl.cs.unb.ca/NSL-KDD/
+
 The project is based on the ML & Security book [1].
 
 Abstract
